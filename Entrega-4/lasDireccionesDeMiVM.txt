@@ -1,0 +1,5 @@
+Privada: a00:27ff:fe6c:57ab/64
+Publica: 190.237.26.186
+MAC: 08:00:27:6c:57:ab
+
+Si , son diferentes las direcciones
