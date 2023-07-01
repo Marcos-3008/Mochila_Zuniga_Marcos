@@ -1,0 +1,11 @@
+git init -> Crear un nuevo repositorio
+git add <nombre del archivo> ->Agregar archivos al repositorio
+git commit -m "Mensaje de commit" > este comando agrega archivos específicos al área de preparación 
+git status > Ver el estado del repositorio
+git log > Ver el historial de commits
+git branch <nombre de la rama> -> Crear una nueva rama
+git checkout <nombre de la rama> -> Cambiar de rama
+git clone <URL del repositorio> -> Clonar un repositorio remoto
+git push origin <nombre de la rama> - >Enviar cambios al repositorio remoto
+mkdir <nombre del directorio> -> Crear un nuevo directorio
+cd <nombre del directorio> -> Ingresar al directorio
